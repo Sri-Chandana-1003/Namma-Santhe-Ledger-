@@ -7,11 +7,17 @@ A simple and efficient Android application built for small vendors and shop owne
 ## 🚀 Features
 
 • 📱 Clean and simple UI
+
 • 🔐 User login system
+
 • ➕ Add customer transactions
+
 • 📊 Transaction history tracking
+
 • ⏰ Weekly reminder notifications
+
 • 👤 Profile management
+
 • ⚙️ Settings management
 
 ---
