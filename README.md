@@ -25,10 +25,15 @@ A simple and efficient Android application built for small vendors and shop owne
 ## 🛠️ Tech Stack
 
 • Language: Kotlin
+
 • Architecture: MVVM
+
 • UI: XML Layouts
+
 • Background Tasks: WorkManager
+
 • Notifications: Broadcast Receiver
+
 • Storage: Shared Preferences and Local Storage
 
 ---
