@@ -135,7 +135,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Yarava Sri Chandana Reddy
 
 ---
 
